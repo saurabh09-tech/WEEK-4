@@ -1,5 +1,5 @@
 const mongoose = require('mongoose'); 
-const MONGO_URI ='mongodb+srv://saurabhdarnal64_db_user:Mongoabi123@employee.k4lctr6.mongodb.net/'
+const MONGO_URI ='mongodb+srv://SaurabhDarnal:Mongoabi123@employee.k4lctr6.mongodb.net/'
 const PersonSchema = new mongoose.Schema({ 
     name: { 
         type: String, 
